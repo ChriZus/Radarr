@@ -1,5 +1,5 @@
 {
-    "name": "digitalhigh/radarr",
+    "name": "chrizus/radarr",
     "description": "PHP Radarr API Wrapper",
     "license": "MIT",
     "authors": [
@@ -10,14 +10,18 @@
         {
             "name": "Digitalhigh",
             "email": "donate.to.digitalhigh@gmail.com"
+        },
+        {
+            "name": "Chris van den Berg",
+            "email": "chrizus@gmail.com"
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.1"
+        "guzzlehttp/guzzle": ">=6.1"
     },
     "autoload": {
         "psr-4": {
-            "digitalhigh\\Radarr\\": "src/"
+            "BergPlaza\\Radarr\\": "src/"
         }
     }
 }
