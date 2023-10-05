@@ -1,3 +1,9 @@
+> **Warning**
+>
+> This package is forked from [digitalhigh/radarr](https://github.com/digitalhigh/radarr) and adapted for my personal preference and use. I do **not** recommend using this package in your project, but use the 
+> original project [digitalhigh/radarr](https://github.com/digitalhigh/radarr)
+> 
+
 # Radarr
 PHP Wrapper for Radarr https://radarr.video/
 
@@ -5,7 +11,7 @@ Here is the Radarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require digitalhigh/radarr
+composer require chrizus/radarr
 ```
 
 ## Example Usage
