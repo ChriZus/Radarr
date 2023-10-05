@@ -10,7 +10,7 @@ composer require digitalhigh/radarr
 
 ## Example Usage
 ```php
-use digitalhigh\Radarr\Radarr;
+use BergPlaza\Radarr\Radarr;
 ```
 ```php
 public function addMovie()
